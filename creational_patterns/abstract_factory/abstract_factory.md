@@ -30,6 +30,9 @@ Python 에서 우리가 사용하는 인터페이스는 단순히 호출 가능�
 
 
 ### 코드
+
+---
+
 ```python
 import random
 from typing import Type
@@ -124,5 +127,7 @@ Process finished with exit code 0
 
 
 ### 정리 이미지
+
+---
 
 ![abstract_factory_rule](https://github.com/cwadven/design-patterns-with-python/blob/master/creational_patterns/abstract_factory/abstract_factory_rule.png)
